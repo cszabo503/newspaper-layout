@@ -4,7 +4,7 @@
 }
 
 .row {
-	width: 1000px;
+	width: 90%;
 }
 
 .six-up-stories .column {
@@ -14,14 +14,22 @@
 body {
 	color: #444;
 	font-family: "Georgia", "Cambria", Times New Roman, Times, serif;
+	line-height: 1em;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
     font-family: "Proxima Nova","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+    color: #66C2FF;
+    line-height: 1em;
+}
+
+h1 {
+	font-family: "Book Antiqua", serif;
+	line-height: 1em;
 }
 
 hr {
-	border-width: 3px;
+	border-width: 100%;
 	border-color: black;
 }
 
